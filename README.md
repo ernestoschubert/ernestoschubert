@@ -1,9 +1,9 @@
 ### Hi there, I'm Ernesto Schubert 👋 
 
-## I'm an Associate of Computer Systems Analysts student and a Full Stack Developer in process!!
+## I'm an IT enthusiast and a Full Stack Developer in process!!
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
-- 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
+- 🥅 2021 Goals: Become a Full Stack MERN & React Native Developer
 - 👀 I’m interesting in Web and Mobile projects
 
 ##
