@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernesto Schubert 👋 
 
-## I'm an IT enthusiast and a Full Stack Developer in process!!
+## I'm an IT enthusiast and a Full Stack MERN Developer
 
 - 🌱 I’m currently learning Web and Mobile development technologies 
 - 👀 I’m interesting in Web and Mobile projects
