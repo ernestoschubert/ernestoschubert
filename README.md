@@ -2,9 +2,6 @@
 
 ## I'm an IT enthusiast and a Full Stack MERN Developer
 
-- 🌱 I’m currently learning Web and Mobile development technologies 
-- 👀 I’m interesting in Web and Mobile projects
-
 ##
 
 <div align="center">
