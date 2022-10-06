@@ -10,13 +10,13 @@
 
 ##
 
-<div align="center">
+<!--- <div align="center">
   <a href="https://github.com/ernestoschubert">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ernestoschubert&show_icons=true&theme=gruvbox"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestoschubert&theme=gruvbox"/>
     
-</div>
+</div> --->
 
 ##
 
